@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">t3a1-Lozano-Adrian</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_quisque_integer_scelerisque_curabitur_nec_congue_morbi_cum_lacinia_feugiat_dis_lacus_purus_nisl_risus_aliquam_ultrices_turpis_aliquet">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque integer scelerisque curabitur nec congue morbi, cum lacinia feugiat dis lacus purus nisl risus aliquam ultrices turpis aliquet.</string>
+    <string name="titulo">Titulo</string>
+    <string name="autor">Autor</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="descripcion" />
+</resources>
